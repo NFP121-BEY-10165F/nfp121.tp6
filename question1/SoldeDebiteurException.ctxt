@@ -1,5 +1,7 @@
 #BlueJ class context
-comment0.target=SoldeDebiteurException()
-comment1.params=message
-comment1.target=SoldeDebiteurException(String)
-numComments=2
+comment0.target=SoldeDebiteurException
+comment1.params=
+comment1.target=SoldeDebiteurException()
+comment2.params=message
+comment2.target=SoldeDebiteurException(java.lang.String)
+numComments=3
